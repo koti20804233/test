@@ -1,2 +1,2 @@
-FROM koti20804233/test
+FROM apache2:latest
 ADD ./devopsIQ /var/www/html/devopsIQ
